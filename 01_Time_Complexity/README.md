@@ -17,6 +17,41 @@ Time Complexity
 O(n)
 
 ---
+## Additional Programs
+
+### factorial_recursion.py
+
+Calculates the factorial of a number using recursion.
+
+Time Complexity
+
+O(n)
+
+---
+
+### fibonacci_recursion.py
+
+Calculates the nth Fibonacci number using recursion.
+
+Time Complexity
+
+O(2^n)
+
+---
+
+### three_nested_loops.py
+
+Demonstrates three nested loops.
+
+Since the innermost loop runs a constant 1000 times:
+
+Time Complexity
+
+O(n²)
+
+If the innermost loop also depended on n:
+
+O(n³)
 
 ### 2. integer_to_string.py
 
