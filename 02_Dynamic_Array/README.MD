@@ -117,6 +117,80 @@ The project demonstrates how Python's built-in list works internally by graduall
 - Time Complexity
 
 ---
+# Dynamic Array Implementation in Python
+
+## 📖 Overview
+
+This project demonstrates the implementation of a custom Dynamic Array from scratch using Python and the `ctypes` module. It replicates the behavior of Python's built-in list and helps understand how dynamic arrays work internally.
+
+---
+
+## ✅ Features Implemented
+
+### Basic Operations
+- Create Dynamic Array
+- Append Elements
+- Resize Array Automatically
+- Print Array
+- Get Length
+- Indexing Support
+
+### Intermediate Operations
+- Find Element
+- Clear Array
+- Pop Last Element
+
+### Advanced Operations
+- Insert Element at Any Position
+- Delete Element by Index
+- Remove Element by Value
+- Bubble Sort Implementation
+
+---
+
+## 📚 Concepts Covered
+
+- Object-Oriented Programming (OOP)
+- Dynamic Memory Allocation
+- ctypes Module
+- Custom Data Structures
+- Array Traversal
+- Searching
+- Insertion
+- Deletion
+- Bubble Sort
+- Time Complexity Analysis
+
+---
+
+## 🚀 Technologies Used
+
+- Python 3
+- ctypes
+
+---
+
+## 📂 Project Structure
+
+Dynamic_Array/
+│── 01_create_array.py
+│── 02_append.py
+│── 03_print_array.py
+│── 04_indexing.py
+│── 05_find.py
+│── 06_clear.py
+│── 07_pop.py
+│── 08_insert.py
+│── 09_delete.py
+│── 10_remove.py
+│── 11_sort.py
+└── README.md
+
+---
+
+## 🎯 Learning Outcome
+
+This project demonstrates the internal working of a Dynamic Array without relying on Python's built-in list methods. It strengthens the understanding of arrays, memory management, and algorithm implementation from scratch.
 
 ## ⏱ Time Complexity
 
