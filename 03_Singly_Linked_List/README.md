@@ -35,7 +35,52 @@ Each program introduces a new Linked List operation step by step to understand h
 - Insert a new node after a given node
 - Handle value not found case
 
----
+---# Linked List - Deletion Operations (Python)
+
+This folder contains different deletion operations implemented on a Singly Linked List from scratch using Python.
+
+## Topics Covered
+
+### 1. Clear Linked List
+- Remove all nodes from the linked list
+- Reset head pointer
+- Reset size counter
+
+### 2. Delete Head
+- Delete the first node
+- Update head pointer
+- Handle empty linked list
+
+### 3. Pop Last Node
+- Remove the last node
+- Traverse to the second-last node
+- Handle single-node linked list
+
+### 4. Remove Node by Value
+- Delete a specific node by value
+- Handle value not found
+- Handle empty linked list
+
+## Concepts Learned
+
+- Node Deletion
+- Pointer Manipulation
+- Linked List Traversal
+- Edge Case Handling
+- Memory Management Basics
+
+## Time Complexity
+
+| Operation | Complexity |
+|-----------|------------|
+| Clear | O(1) |
+| Delete Head | O(1) |
+| Pop Last Node | O(n) |
+| Remove by Value | O(n) |
+
+## Language
+
+- Python 3
 
 ## 📚 Concepts Covered
 
