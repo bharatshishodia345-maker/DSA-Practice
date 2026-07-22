@@ -111,6 +111,45 @@ This folder contains different deletion operations implemented on a Singly Linke
 | Insert After | O(n) |
 
 ---
+# Linked List in Python
+
+This folder contains my implementation of a Singly Linked List from scratch using Python.
+
+## Topics Covered
+
+### Basic Operations
+- Create Node
+- Insert at Head
+- Traversal
+- Append Node
+- Insert After Node
+
+### Searching
+- Search by Value
+- Access Node using Index (__getitem__)
+
+### Advanced Operations
+- Replace Maximum Node
+- Sum of Nodes at Odd Positions
+- Reverse Linked List
+
+## Concepts Learned
+
+- Node Creation
+- Pointer Manipulation
+- Linked List Traversal
+- Searching
+- Index Simulation
+- Reversing a Linked List
+- In-place Node Updates
+
+## Language
+
+Python 3
+
+## Author
+
+Bharat Shishodia
 
 ## 🎯 Learning Outcome
 
